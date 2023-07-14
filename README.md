@@ -20,3 +20,9 @@ https://botmenubuilder.netlify.app/viewer
 
 A chat interface for paitents to setup appoinments UI
 https://dentalbotui.netlify.app/
+
+The Bible APP - KJV
+https://codenamebible.netlify.app/
+
+TabPanel base on vuejs control over tab and up and down keys
+https://tabpanel.netlify.app/
