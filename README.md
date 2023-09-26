@@ -35,7 +35,7 @@ all custom - wrote a custom calendar form base up
 https://dentalbotui.netlify.app/
 
 https://drintelligence-dentalbot.smartz-solutions.com/WebChatClient
-/bookappointment
+https://drintelligence-dentalbot.smartz-solutions.com/bookappointment
 
 A Simple Weather map - base on a particular city using: openweathermap, leafletjs, geodata.solutions
 http://theweathermap.netlify.app/
