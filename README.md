@@ -53,6 +53,6 @@ using VueJs to do accessibility using tabs and arrow key to navigate (test for d
 https://tabpanel.netlify.app/
 
 using ReactJs read form different endpoint then list the data on a chart (test for a company i forgot the name)
-https://reactjs-test-app.netlify.app/survey/XX1
+https://reactjs-test-app.netlify.app/
 
 
