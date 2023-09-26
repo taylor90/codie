@@ -34,8 +34,8 @@ A chat interface for paitents to setup appoinments UI
 all custom - wrote a custom calendar form base up 
 https://dentalbotui.netlify.app/
 
-https://drintelligence-dentalbot.smartz-solutions.com/WebChatClient
-https://drintelligence-dentalbot.smartz-solutions.com/bookappointment
+https://drintelligence-sbdentalbot.smartz-solutions.com/WebChatClient
+https://drintelligence-sbdentalbot.smartz-solutions.com/bookappointment
 
 A Simple Weather map - base on a particular city using: openweathermap, leafletjs, geodata.solutions
 http://theweathermap.netlify.app/
